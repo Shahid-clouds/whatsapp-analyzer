@@ -39,7 +39,7 @@ streamlit run app.py
 
 ## 🌐 Live Demo
 
-[View on Streamlit Cloud](#) ← add your link after deploying
+[View on Streamlit Cloud](#https://whatsapp-analyzer-app.streamlit.app/) ← add your link after deploying
 
 ## 👤 Author
 
