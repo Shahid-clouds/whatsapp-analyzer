@@ -3,10 +3,6 @@
 A data analysis web app that extracts insights from WhatsApp chat exports.
 Built with Python, Pandas, Matplotlib, and Streamlit.
 
-## 🌐 Live Demo
-
-👉 [Click here to open the app](https://whatsapp-analyzer-app.streamlit.app/)
-
 ## 🚀 Features
 
 - **Overview Stats** — total messages, words, media, links, members
@@ -32,15 +28,20 @@ Built with Python, Pandas, Matplotlib, and Streamlit.
 1. Open any WhatsApp chat
 2. Tap ⋮ → More → Export Chat
 3. Choose **Without Media**
-4. Upload the .txt file in the app
+4. Upload the `.txt` file in the app
 
 ## ▶️ Run Locally
 
+```bash
 pip install -r requirements.txt
 streamlit run app.py
+```
+
+## 🌐 Live Demo
+
+[View on Streamlit Cloud](#) ← add your link after deploying
 
 ## 👤 Author
 
-Shahid Siraj S
-GitHub: https://github.com/Shahid-clouds
-LinkedIn: https://linkedin.com/in/shahidsiraj
+Shahid Siraj S  
+[GitHub](https://github.com/Shahid-clouds) | [LinkedIn](https://linkedin.com/in/shahidsiraj)
